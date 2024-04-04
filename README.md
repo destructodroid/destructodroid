@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @destructodroid
 - 👀 I’m interested in ... Coding, Game Development and AI
-- 🌱 I’m currently learning ... C++, Java, Python and Unity 2D
-- 💞️ I’m looking to collaborate on ... Unity 2D
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Python and Unity 3D
+- 💞️ I’m looking to collaborate on ... Web Design, Unity
 - 📫 How to reach me ... omkaryel@gmail.com
 
 <!---
